@@ -11,3 +11,9 @@ Following is a snapshot of the dashboard.
 Dashbord has the following information:
 #### Section 1:
 Demographic data corresponding to the selected ID.
+#### Section 2:
+Top ten (by level) bacteria present in the belly button of the test subject associated with the selected ID.
+#### Secttion 3:
+Gauge map for weekly frequency of scrubbing belly button which might influence the basteria colony present.
+#### Section 4:
+
