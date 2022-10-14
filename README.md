@@ -16,4 +16,5 @@ Top ten (by level) bacteria present in the belly button of the test subject asso
 #### Secttion 3:
 Gauge map for weekly frequency of scrubbing belly button which might influence the basteria colony present.
 #### Section 4:
+Bubble chart for bacteria varieties and the size of the bubble proportional to the strength. The bubble also has hover text display.
 
