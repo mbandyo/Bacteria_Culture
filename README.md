@@ -7,7 +7,7 @@ A large number of sample bacteria population was collected from volunteers. Gene
 The dashboard consists of four sections providing specific information each. The first section contains demographic information after corresponding to the user selected ID number from the dropdown menu. 
 ### Product Overview:
 Following is a snapshot of the dashboard.
-![Belly Botton Diversity Analysis Dashboard](hhttps://github.com/mbandyo/Bacteria_Culture/blob/main/Resources/Belly%20Button%20Bacteria%20Dashboard.jpeg)
+![Belly Botton Diversity Analysis Dashboard](https://github.com/mbandyo/Bacteria_Culture/blob/main/Resources/Belly%20Button%20Bacteria%20Dashboard.jpeg)
 #### Section 1:
 Demographic data corresponding to the selected ID.
 #### Section 2:
