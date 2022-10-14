@@ -150,7 +150,8 @@ function buildCharts(sample) {
       value: washingFreq,
       title:{text:"Belly Button Washing Frequency<br>Scrubs per Week"},
       type:"indicator",
-      mode:"gauge+number",
+      mode:"gauge+number+delta",
+      delta: {reference: 10 },
       gauge: {
         axis: {range: [0,10]},
         steps: [
@@ -159,7 +160,13 @@ function buildCharts(sample) {
           {range: [4,6], color:"#ee9c00"},
           {range: [6,8], color:"#eecc00"},
           {range: [8,10], color:"#d4ee00"}
-        ]
+        ],
+        threshold: {
+          line: { color: "red", width: 10 },
+          thickness: 1.00,
+          value: 10
+        }
+        
       }
     }
   ];
