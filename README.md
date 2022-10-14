@@ -14,6 +14,7 @@ Demographic data corresponding to the selected ID.
 Top ten (by level) bacteria present in the belly button of the test subject associated with the selected ID.
 #### Secttion 3:
 Gauge map for weekly frequency of scrubbing belly button which might influence the basteria colony present.
+This includes an assumption of threshold washing frequency of 10 and the delta shows the subject frequency compared to the threshold.
 #### Section 4:
 Bubble chart for bacteria varieties and the size of the bubble proportional to the strength. The bubble also has hover text display.
 
